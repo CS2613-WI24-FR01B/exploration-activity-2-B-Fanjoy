@@ -2,15 +2,15 @@
 
 ## 1. Which package/library did you select?
 
-    I selected the Chart.js library.
+I selected the Chart.js library.
 
 ## 2. What is the package/library?
 
-    Chart.js is a simple yet flexible JavaScript charting library designed for modern web development. It allows developers to create interactive and visually appealing charts directly within their web applications [[1]].
+Chart.js is a simple yet flexible JavaScript charting library designed for modern web development. It allows developers to create interactive and visually appealing charts directly within their web applications [[1]].
 
 ### Purpose:
 
-    The purpose of Chart.js is to facilitate the creation of interactive and visually appealing charts within web applications. It provides a straightforward way for developers to display data in various formats, such as line charts, bar charts, scatter plots, doughnut charts, and more [[1]].
+The purpose of Chart.js is to facilitate the creation of interactive and visually appealing charts within web applications. It provides a straightforward way for developers to display data in various formats, such as line charts, bar charts, scatter plots, doughnut charts, and more [[1]].
 
 ### How do you use it?
 
@@ -67,26 +67,26 @@ Here are some of the key features of Chart.js:
 
 ## 4. When was it created?
 
-    Chart.js was created and announced in 2013 [[1]].
+Chart.js was created and announced in 2013 [[1]].
 
 ## 5. Why did you select this package/library?
 
-    I chose Chart.js for its simplicity and versatility in creating visually appealing charts for my web projects. It's easy to use and has a supportive community, making it a valuable tool for enhancing user experiences with data visualization.
+I chose Chart.js for its simplicity and versatility in creating visually appealing charts for my web projects. It's easy to use and has a supportive community, making it a valuable tool for enhancing user experiences with data visualization.
 
 ## 6. How did learning the package/library influence your learning of the language?
 
-    Learning Chart.js helped me become more proficient in JavaScript by providing hands-on experience in using external libraries to enhance web development projects. It deepened my understanding of JavaScript syntax and concepts such as data manipulation and event handling.
+Learning Chart.js helped me become more proficient in JavaScript by providing hands-on experience in using external libraries to enhance web development projects. It deepened my understanding of JavaScript syntax and concepts such as data manipulation and event handling.
 
 ## 7. How was your overall experience with the package/library?
 
-    My overall experience with Chart.js has been positive. It's a user-friendly library that simplifies the creation of interactive and visually appealing charts for web applications. The documentation is helpful, and the community support is strong.
+My overall experience with Chart.js has been positive. It's a user-friendly library that simplifies the creation of interactive and visually appealing charts for web applications. The documentation is helpful, and the community support is strong.
 
 ### When would you recommend this package/library to someone?
 
-    I would recommend Chart.js to anyone needing to visualize data on their website. It's easy to use, offers a variety of chart types, and provides good documentation. Whether you're a beginner or an experienced developer, Chart.js can help you create engaging visualizations with minimal hassle.
+I would recommend Chart.js to anyone needing to visualize data on their website. It's easy to use, offers a variety of chart types, and provides good documentation. Whether you're a beginner or an experienced developer, Chart.js can help you create engaging visualizations with minimal hassle.
 
 ### Would you continue using this package/library? Why or why not?
 
-    Yes, I would continue using Chart.js. It's a dependable tool that offers a variety of chart types and customization options, making it suitable for a wide range of projects. Plus, its active community support ensures that I can easily find solutions to any issues I encounter. Overall, it's been a valuable asset in my web development toolkit.
+Yes, I would continue using Chart.js. It's a dependable tool that offers a variety of chart types and customization options, making it suitable for a wide range of projects. Plus, its active community support ensures that I can easily find solutions to any issues I encounter. Overall, it's been a valuable asset in my web development toolkit.
 
 [1]: https://www.chartjs.org/docs/latest/
